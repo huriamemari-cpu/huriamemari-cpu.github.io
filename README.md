@@ -22,3 +22,7 @@ A minimal academic portfolio website built with plain HTML, CSS and JavaScript.
 - Consider using a custom domain later.
 
 - `profile.jpg` — profile image used on the home page
+
+
+## Design update
+The homepage has been redesigned in a clean academic profile style inspired by the structure of albruzos.github.io, while retaining Huria's own content, publications and profile image.
