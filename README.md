@@ -20,3 +20,5 @@ A minimal academic portfolio website built with plain HTML, CSS and JavaScript.
 - Add a professional headshot only if you want one.
 - Add the complete publication list when ready.
 - Consider using a custom domain later.
+
+- `profile.jpg` — profile image used on the home page
